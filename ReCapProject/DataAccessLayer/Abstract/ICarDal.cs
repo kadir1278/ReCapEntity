@@ -1,11 +1,12 @@
-﻿using EntitiesLayer.Concrete;
+﻿using CoreLayer.DataAccess;
+using EntitiesLayer.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface ICarDal:IEntityRepository<Car>
+    public interface ICarDal : IEntityRepository<Car>
     {
     }
 }

@@ -1,0 +1,8 @@
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\CoreLayer\bin\Debug\netstandard2.0\CoreLayer.deps.json
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\CoreLayer\bin\Debug\netstandard2.0\CoreLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\CoreLayer\bin\Debug\netstandard2.0\CoreLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.AssemblyInfoInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.AssemblyInfo.cs
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.csproj.CoreCompileInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.pdb

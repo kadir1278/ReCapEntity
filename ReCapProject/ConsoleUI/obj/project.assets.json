@@ -1482,6 +1482,19 @@
           "bin/placeholder/BusinessLayer.dll": {}
         }
       },
+      "CoreLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.12"
+        },
+        "compile": {
+          "bin/placeholder/CoreLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreLayer.dll": {}
+        }
+      },
       "DataAccessLayer/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -1499,6 +1512,9 @@
       "EntitiesLayer/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CoreLayer": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/EntitiesLayer.dll": {}
         },
@@ -5642,6 +5658,11 @@
       "type": "project",
       "path": "../BusinessLayer/BusinessLayer.csproj",
       "msbuildProject": "../BusinessLayer/BusinessLayer.csproj"
+    },
+    "CoreLayer/1.0.0": {
+      "type": "project",
+      "path": "../CoreLayer/CoreLayer.csproj",
+      "msbuildProject": "../CoreLayer/CoreLayer.csproj"
     },
     "DataAccessLayer/1.0.0": {
       "type": "project",

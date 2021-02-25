@@ -1692,9 +1692,25 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "CoreLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.12"
+        },
+        "compile": {
+          "bin/placeholder/CoreLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreLayer.dll": {}
+        }
+      },
       "EntitiesLayer/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CoreLayer": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/EntitiesLayer.dll": {}
         },
@@ -6153,6 +6169,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "CoreLayer/1.0.0": {
+      "type": "project",
+      "path": "../CoreLayer/CoreLayer.csproj",
+      "msbuildProject": "../CoreLayer/CoreLayer.csproj"
     },
     "EntitiesLayer/1.0.0": {
       "type": "project",

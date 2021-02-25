@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{EF426EC5-D7CC-4EC9-8B58-012100B14F22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{EF426EC5-D7CC-4EC9-8B58-012100B14F22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesLayer", "EntitiesLayer\EntitiesLayer.csproj", "{5CF47FC2-2161-4541-9A5D-05E8F44A6685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntitiesLayer", "EntitiesLayer\EntitiesLayer.csproj", "{5CF47FC2-2161-4541-9A5D-05E8F44A6685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{1C2AD082-AE94-4905-AC74-63E250D189E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{1C2AD082-AE94-4905-AC74-63E250D189E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{25142F4C-C9DD-4AFC-A64B-6971D6746723}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{25142F4C-C9DD-4AFC-A64B-6971D6746723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{B15E4F3E-7173-407D-A962-107686CAAF7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{25142F4C-C9DD-4AFC-A64B-6971D6746723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25142F4C-C9DD-4AFC-A64B-6971D6746723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25142F4C-C9DD-4AFC-A64B-6971D6746723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15E4F3E-7173-407D-A962-107686CAAF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15E4F3E-7173-407D-A962-107686CAAF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15E4F3E-7173-407D-A962-107686CAAF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15E4F3E-7173-407D-A962-107686CAAF7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

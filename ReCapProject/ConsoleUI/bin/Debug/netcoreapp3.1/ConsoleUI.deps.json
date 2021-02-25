@@ -1025,6 +1025,14 @@
           "BusinessLayer.dll": {}
         }
       },
+      "CoreLayer/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.12"
+        },
+        "runtime": {
+          "CoreLayer.dll": {}
+        }
+      },
       "DataAccessLayer/1.0.0": {
         "dependencies": {
           "EntitiesLayer": "1.0.0",
@@ -1035,6 +1043,9 @@
         }
       },
       "EntitiesLayer/1.0.0": {
+        "dependencies": {
+          "CoreLayer": "1.0.0"
+        },
         "runtime": {
           "EntitiesLayer.dll": {}
         }
@@ -1734,6 +1745,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
