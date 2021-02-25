@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj": {}
+    "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj": {}
   },
   "projects": {
-    "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj": {
+    "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj",
+        "projectUniqueName": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj",
         "projectName": "EntitiesLayer",
-        "projectPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj",
+        "projectPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj",
         "packagesPath": "C:\\Users\\kadirari\\.nuget\\packages\\",
-        "outputPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\EntitiesLayer\\obj\\",
+        "outputPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\EntitiesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

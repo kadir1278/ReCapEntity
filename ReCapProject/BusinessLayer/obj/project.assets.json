@@ -6194,11 +6194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\kadirari\\.nuget\\packages\\",
-      "outputPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\BusinessLayer\\obj\\",
+      "outputPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6220,11 +6220,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\DataAccessLayer\\DataAccessLayer.csproj"
+            "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj": {
-              "projectPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj"
+            "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj": {
+              "projectPath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\EntitiesLayer\\EntitiesLayer.csproj"
             }
           }
         }

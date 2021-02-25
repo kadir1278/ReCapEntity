@@ -10,3 +10,15 @@ E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCap\ReCapProject\ReCapPr
 E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCap\ReCapProject\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
 E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCap\ReCapProject\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
 E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCap\ReCapProject\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\bin\Debug\netstandard2.0\EntitiesLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\bin\Debug\netstandard2.0\EntitiesLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\ReCapEntity\ReCapProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

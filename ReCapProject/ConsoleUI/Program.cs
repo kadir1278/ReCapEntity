@@ -1,4 +1,6 @@
 ﻿using BusinessLayer.Concrete;
+using DataAccessLayer.Abstract;
+using DataAccessLayer.Concrete.EntityFramework;
 using DataAccessLayer.Concrete.InMemory;
 using EntitiesLayer.Concrete;
 using System;
@@ -6,12 +8,17 @@ using System.Collections.Generic;
 
 namespace ConsoleUI
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            CarManager carManager = new CarManager(new InMemoryCarDal());
-            foreach (var item in carManager.GetAll())
+            CarManagerMetot();
+        }
+
+        private static void CarManagerMetot()
+        {
+            CarManager _carManager = new CarManager(new EfCarDal());
+            foreach (var item in _carManager.GetAll())
             {
                 Console.WriteLine(item.Description);
             }

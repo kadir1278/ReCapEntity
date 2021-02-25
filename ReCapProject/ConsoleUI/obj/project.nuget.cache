@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZcM4gRrvRT6oGmvRaE8qHHt+1u4jt6pscXJH+q3zYDAOOumOJoEOD6ljfuatHtoCr4igcJOWdmRyFNpYZ4iB/g==",
+  "dgSpecHash": "8OmxA/zvFnT0lVhG1lHvTWZ51vAoQTq9SwQe8gZ11GwgFEB6zymtIHQVqdjlAh3LdZOp5QmXgkKlyqBpcwfeQw==",
   "success": true,
-  "projectFilePath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCap\\ReCapProject\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "E:\\Nots\\YazılımGeliştiriciYetiştirmeKampı\\GitHub\\ReCapEntity\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kadirari\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\kadirari\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
