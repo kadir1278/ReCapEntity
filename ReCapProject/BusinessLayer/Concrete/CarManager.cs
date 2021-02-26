@@ -2,6 +2,7 @@
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete.InMemory;
 using EntitiesLayer.Concrete;
+using EntitiesLayer.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -26,6 +27,10 @@ namespace BusinessLayer.Concrete
         {
             return _carDal.GetAll();
         }
-     
+
+        public List<CarDetailDto> GetCarDetails()
+        {
+            return _carDal.GetCarDetail();
+        }
     }
 }
