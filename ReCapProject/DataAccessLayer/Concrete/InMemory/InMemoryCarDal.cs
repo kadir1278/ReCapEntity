@@ -1,5 +1,6 @@
 ﻿using DataAccessLayer.Abstract;
 using EntitiesLayer.Concrete;
+using EntitiesLayer.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -66,6 +67,11 @@ namespace DataAccessLayer.Concrete.InMemory
         }
 
         public List<Car> GetAll(Expression<Func<Car, bool>> filter = null)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<CarDetailDto> GetCarDetail()
         {
             throw new NotImplementedException();
         }

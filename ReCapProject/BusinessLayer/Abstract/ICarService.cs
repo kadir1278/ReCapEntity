@@ -8,5 +8,6 @@ namespace BusinessLayer.Abstract
     public interface ICarService
     {
         List<Car> GetAll();
+        Car CarById(int carId);
     }
 }

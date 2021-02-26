@@ -17,8 +17,8 @@ namespace ConsoleUI
 
         private static void CarManagerMetot()
         {
-            CarManager _carManager = new CarManager(new EfCarDal());
-            foreach (var item in _carManager.GetAll())
+            CarManager carManager = new CarManager(new EfCarDal());
+            foreach (var item in carManager.GetAll())
             {
                 Console.WriteLine(item.Description);
             }
